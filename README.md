@@ -1,2 +1,2 @@
 # SO-Utilities
-Ejemplos y aplicaciones para ir poder entender conceptos de SO.
+Ejemplos y aplicaciones para poder entender conceptos de SO.
